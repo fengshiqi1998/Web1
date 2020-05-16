@@ -1,0 +1,50 @@
+.sp{font-size:14px;color:grey;}
+.sp:hover{color:#b9f605;text-decoration:none;}
+			.left{
+				width:333px;
+				float:left;
+			}
+			.middle{
+				font-size:14px;
+				line-height:2em;
+			}
+			.right{
+				width:666px;
+				float:left;
+			}
+			.bottom{
+				clear:both;
+				text-align:center;
+				height:68px;
+				line-height:68px;
+				background-color: #575757;
+			}
+			.right ul li{
+				list-style-type:square;
+				list-style-position:inside;
+				font-size:14px;
+			}
+			.lefttop{
+				height:250px;
+				margin-top:20px;
+			}
+			.lefttopbottom{
+				margin-top:50px;
+			}
+			.left ul li{
+				list-style-type:square;
+				list-style-position:inside;
+			}
+			.lefttops{
+				color:grey;
+				font-size:20px;
+				margin-top:10px;
+			}
+			.righttop{
+				color:grey;
+			}
+			.end ul li{
+				list-style-type:none;
+				display:inline;
+				padding:1em;
+			}

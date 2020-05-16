@@ -1,0 +1,8 @@
+#content td{
+	border:1px gray solid;
+	text-align:center;
+}
+#content form{
+	margin-left:30%;
+	margin-top:20px;
+}

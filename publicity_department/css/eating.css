@@ -1,0 +1,33 @@
+#content div{
+	margin:10px;
+}
+#content p{font-size:2em;}
+#content img{
+	float:left;
+	margin:10px;
+}
+#Login{
+	height:300px;
+	width:400px;
+	float:right;
+	background-image:url(../memories/ui.png);
+	margin-right:20%;
+}
+#Login div{
+	float:left;
+	margin-top:120px;
+	margin-left:100px;
+}
+#Login a{
+	float:left;
+	margin-top:20px;
+	margin-left:100px;
+}
+#Login a:hover{
+	opacity:0.5;
+}
+#Login p{
+	font-size:1em;
+	margin-top:250px;
+	text-align:center;
+}

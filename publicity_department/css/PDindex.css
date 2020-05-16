@@ -1,0 +1,45 @@
+body{background-color:orange;}
+#content{
+	height:60%;
+	width:100%;
+}
+#member{
+	float:left;
+	width:650px;
+	height:300px;
+	border:1px solid grey;
+	margin:5px 5px 5px 15px;
+}
+#activity{
+	float:left;
+	width:650px;
+	height:300px;
+	border:1px solid grey;
+	margin:5px 15px 5px 5px;
+}
+#dinner{
+	float:left;
+	width:650px;
+	height:300px;
+	border:1px solid grey;
+	margin:5px 5px 5px 15px;
+}
+#future{
+	float:left;
+	width:650px;
+	height:300px;
+	border:1px solid grey;
+	margin:5px 15px 5px 5px;
+}
+#content a:link{
+	opacity:1;
+}
+#content a:visited{
+	opacity:1;
+}
+#content a:hover{
+	opacity:0.5;
+}
+#content a:active{
+	opacity:1;
+}

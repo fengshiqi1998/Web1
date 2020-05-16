@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>网页布局1</title>
+	<style type="text/css">
+		*{
+			margin:0px;
+			padding:0px;
+			border:0px;
+		}
+		#out1{
+			float:left;
+			width:780px;
+			height:240px;
+			background-color:lightblue;
+			margin:10px;
+		}
+		#out2{
+			float:left;
+			width:300px;
+			height:240px;
+			background-color:lightblue;
+			margin:10px;
+		}
+		.in1{
+			float:left;
+			width:370px;
+			height:100px;
+			background-color:purple;
+			margin:10px 10px 5px 10px;
+		}
+		.in2{
+			width:280px;
+			height:65px;
+			background-color:purple;
+			margin:10px;
+		}
+	</style>
+</head>
+<body>
+	<div id="out1">
+		<div class="in1">内容1</div>
+		<div class="in1">内容1</div>
+		<div class="in1">内容1</div>
+		<div class="in1">内容1</div>
+	</div>
+	<div id="out2">
+		<div class="in2">内容1</div>
+		<div class="in2">内容1</div>
+		<div class="in2">内容1</div>
+	</div>
+</body>
+</html>

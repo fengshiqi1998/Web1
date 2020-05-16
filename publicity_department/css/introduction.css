@@ -1,0 +1,63 @@
+#content{
+}
+.eve{
+	float:left;
+	width:230px;
+	height:409px;
+	border:1px solid grey;
+	margin:10px;
+}
+.one{
+	float:left;
+	width:230px;
+	height:409px;
+	border:1px solid grey;
+	margin:10px 10px 10px 60px;
+}
+#ywz{
+	background-image:url(../memories/ywz.jpg);
+}
+#wyh{
+	background-image:url(../memories/wyh.jpg);
+}
+#fsq{
+	background-image:url(../memories/fsq.jpg);
+}
+#sly{
+	background-image:url(../memories/sly.jpg);
+}
+#lcl{
+	background-image:url(../memories/lcl.jpg);
+}
+#bxx{
+	background-image:url(../memories/bxx.jpg);
+}
+#zyx{
+	background-image:url(../memories/zyx.jpg);
+}
+#lr{
+	background-image:url(../memories/lr.jpg);
+}
+#zjy{
+	background-image:url(../memories/zjy.jpg);
+}
+#zxy{
+	background-image:url(../memories/zxy.png);
+}
+#content a:link{
+	opacity:0;
+}
+#content a:visited{
+	opacity:0;
+}
+#content a:hover{
+	opacity:0.5;
+}
+#content a:active{
+	opacity:0;
+}
+#words{
+	float:left;
+	text-align:center;
+	margin-left:40%;
+}

@@ -1,0 +1,52 @@
+#list{
+	float:right;
+	margin-right:30px;
+	margin-top:50px;
+	background-image:url(../memories/search.png);
+}
+#list ul{
+	list-style-type:none;
+}
+#list li{
+	font-size:2em;
+	font-family:'仿宋';
+	font-weight:bold;
+	margin:20px;
+}
+#list a:link{
+	text-decoration:none;
+	color:grey;
+}
+#list a:visited{
+	text-decoration:none;
+	color:grey;
+}
+#list a:hover{
+	text-decoration:none;
+	font-style:italic;
+	color:black;
+}
+#list a:active{
+	text-decoration:none;
+	color:yellow;
+}
+#bb{
+	float:left;
+	margin-top:100px;
+}
+#ht,#sp,#star,#qt{
+	float:left;
+	clear:left;
+}
+#content img{
+	margin:10px;
+}
+.back{
+	float:right;
+	margin-right:50px;
+	margin-top:300px;
+}
+#content p{
+	text-indent:1em;
+	font-size:1.5em;
+}
